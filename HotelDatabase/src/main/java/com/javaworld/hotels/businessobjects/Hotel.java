@@ -16,7 +16,7 @@ package com.javaworld.hotels.businessobjects;
  *
  * A simplified hotel business class.
  * A hotel, for this tutorial, has a name, an address, 
- * a city, and a number of stars.
+ * a city, and a number of stars. YOLO
  */
 public class Hotel {
 	private String name;
